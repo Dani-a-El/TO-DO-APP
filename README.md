@@ -49,6 +49,7 @@ The built application will be in the `build/` directory.
 
 ```
 xdo/
+├── screenshots/           # App screenshots and preview images
 ├── lib/
 │   └── main.dart          # Main application code
 ├── linux/                 # Linux platform files
@@ -56,6 +57,10 @@ xdo/
 ├── windows/               # Windows platform files
 └── pubspec.yaml          # Dependencies
 ```
+
+## Screenshots
+
+Store app preview images in the `screenshots/` folder at the project root.
 
 ## Usage
 
